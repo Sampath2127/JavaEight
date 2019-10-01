@@ -1,0 +1,48 @@
+
+q
+squid:S1067"9Replace this use of System.out or System.err by a logger.(çÏâ´ıÿÿÿÿ8üÅ«’-H„RMAJORZ
+CODE_SMELL
+q
+squid:S106K"9Replace this use of System.out or System.err by a logger.(Ù›÷—ùÿÿÿÿ8Óˆ‹­’-H…RMAJORZ
+CODE_SMELL
+l
+squid:S106^"9Replace this use of System.out or System.err by a logger.(‚ß¯ˆ8³’¯’-H†RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(™Ï¿çùÿÿÿÿ8ß–¡¬’-H‡RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûÚ×şÿÿÿÿ8Ú¶Á«’-HˆRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(™´8£úò«’-H‰RMAJORZ
+CODE_SMELL
+q
+squid:S1062"9Replace this use of System.out or System.err by a logger.(µ‡©Õşÿÿÿÿ8ÉûŸ¬’-HŠRMAJORZ
+CODE_SMELL
+q
+squid:S106D"9Replace this use of System.out or System.err by a logger.(Ñô‚£şÿÿÿÿ8à“ˆ­’-H‹RMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(è€Ä·8Ù•á«’-HŒRMAJORZ
+CODE_SMELL
+’squid:S2293g"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯ä„·ıÿÿÿÿ8³’¯’-HRMINORZ
+CODE_SMELL
+psquid:S16112"7Remove the parentheses around the "developer" parameter(µ‡©Õşÿÿÿÿ8£úò«’-HRMINORZ
+CODE_SMELL
+`squid:S1612^",Replace this lambda with a method reference.(‚ß¯ˆ8ÍÀ”¯’-HRMINORZ
+CODE_SMELL
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İ™¢ûHRMINORZ
+CODE_SMELL
+esquid:S16122",Replace this lambda with a method reference.(µ‡©Õşÿÿÿÿ8„—õ«’-H‘RMINORZ
+CODE_SMELL
+l
+squid:S106X"9Replace this use of System.out or System.err by a logger.(œ•é‹8´È­’-H’RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(ÜæÅœşÿÿÿÿ8ìîù«’-H“RMAJORZ
+CODE_SMELL
+q
+squid:S106@"9Replace this use of System.out or System.err by a logger.(˜Õ¾Òıÿÿÿÿ8üÅ«’-H”RMAJORZ
+CODE_SMELL
+q
+squid:S106O"9Replace this use of System.out or System.err by a logger.(¼°Å˜şÿÿÿÿ8Á–Ç­’-H•RMAJORZ
+CODE_SMELL

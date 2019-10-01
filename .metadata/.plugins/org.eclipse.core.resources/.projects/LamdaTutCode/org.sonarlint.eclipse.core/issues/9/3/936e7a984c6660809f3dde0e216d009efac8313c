@@ -1,0 +1,15 @@
+
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜«•¬ùÿÿÿÿ8ÜÌ«â´-H´RMAJORZ
+CODE_SMELL
+xsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(è®ã¶øÿÿÿÿ8ÜÌ«â´-HµRMAJORZBUG
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼’éˆ8ÜÌ«â´-H¶RMAJORZ
+CODE_SMELL
+Zsquid:S1148"#Use a logger to log this exception.(Ç’Çê8ÜÌ«â´-H·RMINORZVULNERABILITY
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(áÑÚµ8ÜÌ«â´-H¸RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼£Ó8ÜÌ«â´-H¹RMAJORZ
+CODE_SMELL

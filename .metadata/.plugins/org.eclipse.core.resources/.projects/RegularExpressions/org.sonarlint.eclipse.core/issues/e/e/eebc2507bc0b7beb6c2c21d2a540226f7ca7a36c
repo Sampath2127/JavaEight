@@ -1,0 +1,55 @@
+
+squid:S39732"JUse indentation to denote the code conditionally executed by this "while".(±İ¹İ8ğÈÓ¹-HõRCRITICALZ
+CODE_SMELL
+l
+squid:S106("9Replace this use of System.out or System.err by a logger.(ğ†”÷8€ÅåÒ¹-HöRMAJORZ
+CODE_SMELL
+l
+squid:S1066"9Replace this use of System.out or System.err by a logger.(æŸúŒ8ÿä‘Ô¹-H÷RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥€îí8Ú°‘Ò¹-HøRMAJORZ
+CODE_SMELL
+q
+squid:S106'"9Replace this use of System.out or System.err by a logger.(…´”şüÿÿÿÿ8ˆòÙÒ¹-HùRMAJORZ
+CODE_SMELL
+†squid:S3973H"JUse indentation to denote the code conditionally executed by this "while".(¼¶ÉÏÿÿÿÿÿ8Ä…±Ô¹-HúRCRITICALZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(©°‚³8ŸûéĞ¹-HûRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ş÷Ìòúÿÿÿÿ8µš‹Ò¹-HüRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ìÀõ•8¯ßËÑ¹-HıRMAJORZ
+CODE_SMELL
+q
+squid:S106&"9Replace this use of System.out or System.err by a logger.(ïîæ÷ıÿÿÿÿ8œ½ÖÒ¹-HşRMAJORZ
+CODE_SMELL
+q
+squid:S106""9Replace this use of System.out or System.err by a logger.(×†Åüÿÿÿÿ8À“›Ò¹-HÿRMAJORZ
+CODE_SMELL
+l
+squid:S106@"9Replace this use of System.out or System.err by a logger.(Ûµè8ÉÅËÔ¹-H€RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(”Ê½¨ûÿÿÿÿ8Ì—€Ò¹-HRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å±¬8ÍúÒ¹-H‚RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÜÌõÙ8„‰Ñ¹-HƒRMAJORZ
+CODE_SMELL
+l
+squid:S106C"9Replace this use of System.out or System.err by a logger.(Â£ò8¢Û«Ô¹-H„RMAJORZ
+CODE_SMELL
+l
+squid:S1063"9Replace this use of System.out or System.err by a logger.(ãŠñ8ğÈÓ¹-H…RMAJORZ
+CODE_SMELL
+l
+squid:S106I"9Replace this use of System.out or System.err by a logger.(­»ƒ÷8ïñ§Ô¹-H†RMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(äÜ€¥8ê€÷Ó¹-H‡RMAJORZ
+CODE_SMELL

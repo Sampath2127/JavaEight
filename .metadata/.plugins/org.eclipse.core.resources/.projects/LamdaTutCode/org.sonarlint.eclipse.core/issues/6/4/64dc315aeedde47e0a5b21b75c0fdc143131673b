@@ -1,0 +1,47 @@
+
+k
+squid:S106E"9Replace this use of System.out or System.err by a logger.(ƒÚáB8–œåá´-H¡RMAJORZ
+CODE_SMELL
+k
+squid:S106""9Replace this use of System.out or System.err by a logger.(ú·äq8ëó á´-H¢RMAJORZ
+CODE_SMELL
+ysquid:S2142‡"FEither re-interrupt this method or rethrow the "InterruptedException".(è®ã¶øÿÿÿÿ8”…áá´-H£RMAJORZBUG
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(îÌœö8µâ’â´-H¤RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.(îÀîËüÿÿÿÿ8’îªß´-H¥RMAJORZ
+CODE_SMELL
+[squid:S1148ˆ"#Use a logger to log this exception.(Ç’Çê8£©áá´-H¦RMINORZVULNERABILITY
+l
+squid:S106x"9Replace this use of System.out or System.err by a logger.(¼£Ó8€åõá´-H§RMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(‘ÓëÑ8ºžÈà´-H¨RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine="<This block of commented-out lines of code should be removed.(§­ÛÄûÿÿÿÿ8òÚßà´-H©RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine3"<This block of commented-out lines of code should be removed.(ØÿÄ…ýÿÿÿÿ8ØØ¥à´-HªRMAJORZ
+CODE_SMELL
+Œsquid:ModifiersOrderCheckK"EReorder the modifiers to comply with the Java Language Specification.(÷Üôøÿÿÿÿ8‹×•à´-H«RMINORZ
+CODE_SMELL
+l
+squid:S106|"9Replace this use of System.out or System.err by a logger.(áÑÚµ8Úœá´-H¬RMAJORZ
+CODE_SMELL
+m
+squid:S106Š"9Replace this use of System.out or System.err by a logger.(¼’éˆ8ê»øá´-H­RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ý±ÑÖ8é—íÞ´-H®RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(Æ¨ìùùÿÿÿÿ8òÚßà´-H¯RMAJORZ
+CODE_SMELL
+q
+squid:S106w"9Replace this use of System.out or System.err by a logger.(˜«•¬ùÿÿÿÿ8¨”Äá´-H°RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¸”ô øÿÿÿÿ8„©ÓÞ´-H±RMAJORZ
+CODE_SMELL
+l
+squid:S106!"9Replace this use of System.out or System.err by a logger.(„ªÕà8¯¼èà´-H²RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã³øøÿÿÿÿ8Î¸±ß´-H³RMAJORZ
+CODE_SMELL

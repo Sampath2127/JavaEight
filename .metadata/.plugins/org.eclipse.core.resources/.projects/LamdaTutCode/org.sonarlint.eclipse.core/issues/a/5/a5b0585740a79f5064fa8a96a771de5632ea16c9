@@ -1,0 +1,21 @@
+
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Êô²ºúÿÿÿÿ8Ÿî¤²µ-H™RMAJORZ
+CODE_SMELL
+fsquid:S1481"-Remove this unused "gNumbers" local variable.(Ãª¾Áùÿÿÿÿ8§ÿ´í´-HšRMINORZ
+CODE_SMELL
+Zsquid:S3864"!Remove this use of "Stream.peek".(×Øªèøÿÿÿÿ8Îƒ°²µ-H›RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(’ºñ´øÿÿÿÿ8Ÿî¿í´-HœRMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñÙ ‚þÿÿÿÿ8§ÿ´í´-HRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(­ÅðÈøÿÿÿÿ8Å×§²µ-HžRMAJORZ
+CODE_SMELL
+usquid:S1854"<Remove this useless assignment to local variable "gNumbers".(Ãª¾Áùÿÿÿÿ8§ÿ´í´-HŸRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(×Øªèøÿÿÿÿ8Îƒ°²µ-H RMAJORZ
+CODE_SMELL

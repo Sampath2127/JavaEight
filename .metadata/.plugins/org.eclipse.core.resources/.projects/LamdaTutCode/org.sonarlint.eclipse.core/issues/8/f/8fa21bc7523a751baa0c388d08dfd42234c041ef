@@ -1,0 +1,32 @@
+
+~squid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(ŽÇã,8†ùò´µ-HËRMAJORZ
+CODE_SMELL
+q
+squid:S1066"9Replace this use of System.out or System.err by a logger.(ðÑî©ÿÿÿÿÿ8·Ãé´µ-HÌRMAJORZ
+CODE_SMELL
+q
+squid:S106?"9Replace this use of System.out or System.err by a logger.(·êÜöüÿÿÿÿ8¾Ý’¹¶-HÍRMAJORZ
+CODE_SMELL
+q
+squid:S106A"9Replace this use of System.out or System.err by a logger.(ï¶ ­úÿÿÿÿ8ÇèÑº¶-HÎRMAJORZ
+CODE_SMELL
+q
+squid:S106C"9Replace this use of System.out or System.err by a logger.(Å­ËÝúÿÿÿÿ8óØÙº¶-HÏRMAJORZ
+CODE_SMELL
+q
+squid:S106'"9Replace this use of System.out or System.err by a logger.(’ãßïøÿÿÿÿ8®ñÕ´µ-HÐRMAJORZ
+CODE_SMELL
+q
+squid:S106)"9Replace this use of System.out or System.err by a logger.(‹û¾úüÿÿÿÿ8¨©®¸¶-HÑRMAJORZ
+CODE_SMELL
+jsquid:S1481:"1Remove this unused "groupedByAge" local variable.(ÄŽãÆüÿÿÿÿ8î£Â¸¶-HÒRMINORZ
+CODE_SMELL
+`squid:S1612;",Replace this lambda with a method reference.(¯ŽíÚ8ë†Á¸¶-HÓRMINORZ
+CODE_SMELL
+ysquid:S1854:"@Remove this useless assignment to local variable "groupedByAge".(ÄŽãÆüÿÿÿÿ8î£Â¸¶-HÔRMAJORZ
+CODE_SMELL
+q
+squid:S1068"9Replace this use of System.out or System.err by a logger.(ÿ–âÜþÿÿÿÿ8·Ãé´µ-HÕRMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(ß“±©ûÿÿÿÿ8Ð­Ù´µ-HÖRMAJORZ
+CODE_SMELL

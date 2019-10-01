@@ -1,0 +1,36 @@
+
+l
+squid:S1068"9Replace this use of System.out or System.err by a logger.(®òÄ 8ÄÌ¬Í¹-H±RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ôæ“úÿÿÿÿ8¢™Ì¹-HRMAJORZ
+CODE_SMELL
+q
+squid:S106+"9Replace this use of System.out or System.err by a logger.(Ó‘“äÿÿÿÿÿ8ÚÒ‚Í¹-H§RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥ğ¡Ëúÿÿÿÿ8Ë¬óÌ¹-H˜RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ë‚á8³¥äÌ¹-H–RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¢‹²üøÿÿÿÿ8ÎÌ¹-H€RMAJORZ
+CODE_SMELL
+l
+squid:S106#"9Replace this use of System.out or System.err by a logger.(õöØÔ8“œîÌ¹-H—RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(¢ª’Î8íµèË¹-HüRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûô¦ ûÿÿÿÿ8Ÿ‚Ì¹-HşRMAJORZ
+CODE_SMELL
+l
+squid:S1062"9Replace this use of System.out or System.err by a logger.(ÓÅ›ú8ú¦¨Í¹-H°RMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(µÂ–H8³ÓòË¹-HıRMAJORZ
+CODE_SMELL
+q
+squid:S106/"9Replace this use of System.out or System.err by a logger.(îÆ¼Ûüÿÿÿÿ8ù±„Í¹-H¨RMAJORZ
+CODE_SMELL

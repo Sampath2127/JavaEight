@@ -1,0 +1,14 @@
+
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦¼ªÚHüRMINORZ
+CODE_SMELL
+vsquid:S1854"=Remove this useless assignment to local variable "seqStream".(ãš¯µÿÿÿÿÿ8Ï°×“-HıRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿ›ÁĞûÿÿÿÿ8Ö ×“-HşRMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(£ÄŒ¶8¹¡ëÖ“-HÿRMAJORZ
+CODE_SMELL
+gsquid:S1481".Remove this unused "seqStream" local variable.(ãš¯µÿÿÿÿÿ8Ï°×“-H€RMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¢·ˆûÿÿÿÿ8Ï°×“-HRMAJORZ
+CODE_SMELL

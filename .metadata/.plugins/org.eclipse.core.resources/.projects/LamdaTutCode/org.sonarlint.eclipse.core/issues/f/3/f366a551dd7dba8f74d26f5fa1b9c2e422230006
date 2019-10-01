@@ -1,0 +1,63 @@
+
+psquid:S1854)"<Remove this useless assignment to local variable "lastName".(½¾•Ü8‚È‚å´-HºRMAJORZ
+CODE_SMELL
+q
+squid:S1064"9Replace this use of System.out or System.err by a logger.(İŠÇ¢úÿÿÿÿ8½ç€å´-H»RMAJORZ
+CODE_SMELL
+squid:UnusedPrivateMethodv"8Remove this unused private "printEmployeesByAge" method.(Ô›Íùÿÿÿÿ8çõÑä´-H¼RMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLineU"<This block of commented-out lines of code should be removed.(¼è±Ê8çõÑä´-H½RMAJORZ
+CODE_SMELL
+‡squid:S1602B"SRemove useless curly braces around statement and then remove useless return keyword(ç¾Æ¼8Ûóéå´-H¾RMINORZ
+CODE_SMELL
+Œsquid:S1602,"SRemove useless curly braces around statement and then remove useless return keyword(ëÚ¥Šúÿÿÿÿ8ŒÙõä´-H¿RMINORZ
+CODE_SMELL
+`squid:S1612P",Replace this lambda with a method reference.(²ï8¸Óæ´-HÀRMINORZ
+CODE_SMELL
+q
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(”îü”úÿÿÿÿ8ãê½æ´-HÁRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¸”ô øÿÿÿÿ8‰Í¿ä´-HÂRMAJORZ
+CODE_SMELL
+…squid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(½Œ¿ÿÿÿÿÿ8™øÔã´-HÃRMAJORZ
+CODE_SMELL
+q
+squid:S106K"9Replace this use of System.out or System.err by a logger.(¡ğ†üÿÿÿÿ8 ¹Üå´-HÄRMAJORZ
+CODE_SMELL
+e
+squid:S106y"9Replace this use of System.out or System.err by a logger.(™²“õHÅRMAJORZ
+CODE_SMELL
+”squid:S4276<"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(Ìûôüÿÿÿÿ8õÃÑå´-HÆRMINORZ
+CODE_SMELL
+l
+squid:S106x"9Replace this use of System.out or System.err by a logger.(ØâŸÇ8¢É×ã´-HÇRMAJORZ
+CODE_SMELL
+l
+squid:S106@"9Replace this use of System.out or System.err by a logger.(õ×Íí8½ç€å´-HÈRMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.( ®ÕÚøÿÿÿÿ8‚È‚å´-HÉRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(İ±ÑÖ8©çÈã´-HÊRMAJORZ
+CODE_SMELL
+esquid:S1612Q",Replace this lambda with a method reference.(”îü”úÿÿÿÿ8ØãÕæ´-HËRMINORZ
+CODE_SMELL
+asquid:S1481)"-Remove this unused "lastName" local variable.(½¾•Ü8‚È‚å´-HÌRMINORZ
+CODE_SMELL
+q
+squid:S106G"9Replace this use of System.out or System.err by a logger.(ŸÜ¯Äùÿÿÿÿ8Àìóå´-HÍRMAJORZ
+CODE_SMELL
+†squid:ModifiersOrderCheck‹"EReorder the modifiers to comply with the Java Language Specification.(÷ÜôøÿÿÿÿHÎRMINORZ
+CODE_SMELL
+l
+squid:S1066"9Replace this use of System.out or System.err by a logger.(ç’ı8ùßëä´-HÏRMAJORZ
+CODE_SMELL
+l
+squid:S106}"9Replace this use of System.out or System.err by a logger.(„ªÕà8ØãÕæ´-HĞRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã³øøÿÿÿÿHÑRMAJORZ
+CODE_SMELL
+Œsquid:S1602%"SRemove useless curly braces around statement and then remove useless return keyword( ×´ûÿÿÿÿ8»™èä´-HÒRMINORZ
+CODE_SMELL
